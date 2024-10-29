@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luis-\\Escena2_Laboratorio4_CGVCM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0474A1F-872E-AF15-FC30-9AAD8124C5EA}|Assembly-CSharp.csproj|C:\\Users\\luis-\\Escena2_Laboratorio4_CGVCM\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0474A1F-872E-AF15-FC30-9AAD8124C5EA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0474A1F-872E-AF15-FC30-9AAD8124C5EA}|Assembly-CSharp.csproj|C:\\Users\\luis-\\Escena2_Laboratorio4_CGVCM\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0474A1F-872E-AF15-FC30-9AAD8124C5EA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0474A1F-872E-AF15-FC30-9AAD8124C5EA}|Assembly-CSharp.csproj|c:\\users\\luis-\\escena2_laboratorio4_cgvcm\\assets\\scripts\\cameraswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0474A1F-872E-AF15-FC30-9AAD8124C5EA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameraswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0474A1F-872E-AF15-FC30-9AAD8124C5EA}|Assembly-CSharp.csproj|c:\\users\\luis-\\escena2_laboratorio4_cgvcm\\assets\\scripts\\cameraorbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0474A1F-872E-AF15-FC30-9AAD8124C5EA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameraorbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CameraOrbit.cs",
+              "DocumentMoniker": "C:\\Users\\luis-\\Escena2_Laboratorio4_CGVCM\\Assets\\Scripts\\CameraOrbit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraOrbit.cs",
+              "ToolTip": "C:\\Users\\luis-\\Escena2_Laboratorio4_CGVCM\\Assets\\Scripts\\CameraOrbit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraOrbit.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwD4AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:06:43.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraSwitcher.cs",
+              "DocumentMoniker": "C:\\Users\\luis-\\Escena2_Laboratorio4_CGVCM\\Assets\\Scripts\\CameraSwitcher.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraSwitcher.cs",
+              "ToolTip": "C:\\Users\\luis-\\Escena2_Laboratorio4_CGVCM\\Assets\\Scripts\\CameraSwitcher.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraSwitcher.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwBkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:26:34.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\luis-\\Escena2_Laboratorio4_CGVCM\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\luis-\\Escena2_Laboratorio4_CGVCM\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:50:13.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\luis-\\Escena2_Laboratorio4_CGVCM\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\luis-\\Escena2_Laboratorio4_CGVCM\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAgwBoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:41:18.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
